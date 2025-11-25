@@ -13,37 +13,15 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=25&color=F7AB0A&lines=Fullstack+Developer;Open+Source+Lover;Always+Learning" alt="Typing Effect"/>
 </p>
 
-<!-- =================== ANIMATED GIF =================== -->
-<h1 align="center">Gojo Satoru ⚔ Sukuna</h1>
-
 <p align="center">
-  <img src="https://media.giphy.com/media/xxxxxx/giphy.gif" width="500"/>
-</p>
-
-<p align="center">
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=F7AB0A&lines="Limitless...";"Infinity...";"Domain Expansion!")
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Gojo-PowerLevel%20Over9000-blueviolet"/>
-  <img src="https://img.shields.io/badge/Sukuna-CursedEnergy%20Max-red"/>
-</p>
-<!-- =================== STATS =================== -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hxhshdhdhd&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hxhshdhdhd&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<!-- =================== SOCIAL LINKS =================== -->
-<p align="center">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/your-twitter" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  <a href="https://www.instagram.com/your-instagram" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://www.hxhshdhdhd.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-F7AB0A?style=for-the-badge&logo=appveyor&logoColor=white"/>
+  <a href="https://www.tiktok.com/@your-tiktok" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
   </a>
 </p>
 
