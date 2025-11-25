@@ -14,10 +14,20 @@
 </p>
 
 <!-- =================== ANIMATED GIF =================== -->
+<h1 align="center">Gojo Satoru ⚔ Sukuna</h1>
+
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/xxxxxx/giphy.gif" width="500"/>
 </p>
 
+<p align="center">
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=F7AB0A&lines="Limitless...";"Infinity...";"Domain Expansion!")
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Gojo-PowerLevel%20Over9000-blueviolet"/>
+  <img src="https://img.shields.io/badge/Sukuna-CursedEnergy%20Max-red"/>
+</p>
 <!-- =================== STATS =================== -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hxhshdhdhd&show_icons=true&theme=radical" alt="GitHub Stats" />
